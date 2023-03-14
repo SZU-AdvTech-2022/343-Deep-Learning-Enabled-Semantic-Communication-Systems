@@ -1,8 +1,8 @@
-@ARTICLE{9398576,
+@article{REPO-343,
     author = "Xie, Huiqiang and Qin, Zhijin and Li, Geoffrey Ye and Juang, Biing-Hwang",
     journal = "IEEE Transactions on Signal Processing",
+    pages = "2663-267",
     title = "Deep Learning Enabled Semantic Communication Systems",
-    year = "2021",
     volume = "69",
-    pages = "2663-267"
+    year = "2021"
 }
